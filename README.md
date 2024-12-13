@@ -1,7 +1,6 @@
 # Website Testing Markdown
 
 ## Header Levels
-
 ### H3 Example
 #### H4 Example
 ##### H5 Example
