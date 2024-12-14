@@ -1,5 +1,5 @@
 menu:
-- {name: 'university', url: '/courses'}
+- {name: 'university', url: '/university'}
 - {name: 'cv', url: '/publications'}
 - {name: 'literature', url: '/courses'}
 - {name: 'conversations', url: '/cv'}
