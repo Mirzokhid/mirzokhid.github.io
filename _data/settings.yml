@@ -6,7 +6,18 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 university:
-- {name: 'Theoratical Physics 3', department: 'Physics', information: 'Classical Mechanics 2 and Electrodynamics 2', grade: '2.7', url: 'primary-investigator'}
+- {name: 'Theoratical Physics 3', department: 'Physics', information: 'Classical Mechanics 2 and Electrodynamics 2', grade: 'In Progress', url: 'tp3'}
+- {name: 'Experimental Physics 3', department: 'Physics', information: 'Electromagnetic Waves and Foundations of Quantum Physics', grade: 'In Progress', url: 'ep3'}
+- {name: 'Mathematics 3', department: 'Maths', information: 'Vector Calculus and Partial Differential Equations', grade: '2.7', url: 'maths3'}
+- {name: 'Laboratory 1', department: 'labs', information: 'General Physics', grade: 'In Progress', url: 'lab1'}
+- {name: 'Physical Modelling', department: 'comp', information: 'Introduction to Computer-based Physical Modelling', grade: '1.0', url: 'comp1'}
+- {name: 'Women in STEM', department: 'nelec', information: 'Non Physics Electives', grade: '1.3', url: 'nelec1'}
+- {name: 'Theoratical Physics 2', department: 'Physics', information: 'Electrodynamics 1', grade: '2.7', url: 'tp2'}
+- {name: 'Mathematics 2', department: 'Maths', information: 'Calculus of Functions of More Than One Variable', grade: '2.3', url: 'maths2'}
+- {name: 'Chemistry', department: 'Chem', information: 'Introduction to Chemistry for Physics', grade: '2.3', url: 'chem1'}
+- {name: 'Theoratical Physics 1', department: 'Physics', information: 'Classical Mechanics 1', grade: '2.3', url: 'tp1'}
+- {name: 'Experimental Physics 1', department: 'Physics', information: 'Mechanics', grade: '2.3', url: 'ep1'}
+- {name: 'Mathematics 1', department: 'Maths', information: 'Linear Algebra and Calculus of Functions of One Variable', grade: '1.7', url: 'maths1'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
