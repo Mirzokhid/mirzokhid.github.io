@@ -5,12 +5,20 @@ layout: default
 {{ content }}
 
 <h3 class="fw-bold border-bottom pb-3 mb-5">University</h3>
-{% for university in site.data.settings.university %}
 <div class="row g-5 mb-5">
-  <div class="col-md-6">
-    <h5>{{ university.name }}</h5>
-    <p>Area of Study: {{ university.information }}</p>
-    <p>Grade: {{ university.grade }}</p>
-    <p><a href="{{ site.github.url }}/university/{{ university.url }}">More info</a></p>
-  </div>
-{% endfor %}
+  {% for university in site.data.settings.university %}
+    {% if forloop.index0 | modulo: 2 == 0 %}
+      {% if forloop.index0 > 0 %}
+        </div> <!-- Close the previous row -->
+      {% endif %}
+      <div class="row g-5 mb-5"> <!-- Start a new row -->
+    {% endif %}
+
+    <div class="col-md-6">
+      <h5>{{ university.name }}</h5>
+      <p>Area of Study: {{ university.information }}</p>
+      <p>Grade: {{ university.grade }}</p>
+      <p><a href="{{ site.github.url }}/university/{{ university.url }}">More info</a></p>
+    </div>
+  {% endfor %}
+</div> <!-- Close the last row -->
