@@ -6,7 +6,7 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 university:
-- {name: 'Theoratical Physics 3', title: 'Researcher', department: 'Physics', information: 'Classical Mechanics 2 and Electrodynamics 2', grade: '2.7', url: 'primary-investigator'}
+- {name: 'Theoratical Physics 3', department: 'Physics', information: 'Classical Mechanics 2 and Electrodynamics 2', grade: '2.7', url: 'primary-investigator'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
