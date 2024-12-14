@@ -8,7 +8,7 @@ menu:
 university:
 - {name: 'Theoratical Physics 3', department: 'Physics', information: 'Classical Mechanics 2 and Electrodynamics 2', grade: 'In Progress', url: 'tp3'}
 - {name: 'Experimental Physics 3', department: 'Physics', information: 'Electromagnetic Waves and Foundations of Quantum Physics', grade: 'In Progress', url: 'ep3'}
-- {name: 'Mathematics 3', department: 'Maths', information: 'Vector Calculus and Partial Differential Equations', grade: '2.7', url: 'maths3'}
+- {name: 'Mathematics 3', department: 'Maths', information: 'Vector Calculus and Partial Differential Equations', grade: 'In Progress', url: 'maths3'}
 - {name: 'Laboratory 1', department: 'labs', information: 'General Physics', grade: 'In Progress', url: 'lab1'}
 - {name: 'Physical Modelling', department: 'comp', information: 'Introduction to Computer-based Physical Modelling', grade: '1.0', url: 'comp1'}
 - {name: 'Women in STEM', department: 'nelec', information: 'Non Physics Electives', grade: '1.3', url: 'nelec1'}
