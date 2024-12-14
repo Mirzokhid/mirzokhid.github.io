@@ -8,9 +8,9 @@ layout: default
 {% for person in site.data.settings.university %}
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <h5>{{ university.class }}</h5>
-    <p>: {{ university.information }}</p>
-    <p>: {{ university.grade }}</p>
+    <h5>{{ university.name }}</h5>
+    <p>Area of Study: {{ university.information }}</p>
+    <p>Grade: {{ university.grade }}</p>
     <p><a href="{{ site.github.url }}/university/{{ university.url }}">More info</a></p>
   </div>
   <div class="col-md-6">
