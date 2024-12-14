@@ -7,7 +7,7 @@ layout: default
 <h3 class="fw-bold border-bottom pb-3 mb-5">University</h3>
 
 {% assign universities = site.data.settings.university %}
-{% for university in universities %}
+{% for university in site.data.settings.university %}
   {% if forloop.first or forloop.index0 | modulo: 2 == 0 %}
     <div class="row g-5 mb-5"> <!-- Start a new row -->
   {% endif %}
