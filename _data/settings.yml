@@ -2,7 +2,7 @@ menu:
 - {name: 'university', url: '/university'}
 - {name: 'cv', url: '/cv'}
 - {name: 'science', url: '/science'}
-- {name: 'literature', url: '/literature'}
+- {name: 'literature', url: '/literatures'}
 - {name: 'conversations', url: '/conversations'}
 - {name: 'contact', url: '/contact'}
 
