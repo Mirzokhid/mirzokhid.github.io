@@ -4,30 +4,14 @@ layout: default
 
 {{ content }}
 
+<h3 class="fw-bold border-bottom pb-3 mb-5">University</h3>
 <div class="row g-5 mb-5">
-  <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">CV</h3>
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h4>Education</h4>
-      </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv.education %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
-        {% endfor %}
-      </div>
+  {% for university in site.data.settings.university %}
+    <div class="col-md-6">
+      <h5>{{ university.name }}</h5>
+      <p>Area of Study: {{ university.information }}</p>
+      <p>Grade: {{ university.grade }}</p>
+      <p><a href="{{ site.github.url }}/university/{{ university.url }}">More info</a></p>
     </div>
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h4>Academic Experience</h4>
-      </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv.academic-experience %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
+  {% endfor %}
 </div>
