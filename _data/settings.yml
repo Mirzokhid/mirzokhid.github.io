@@ -2,8 +2,8 @@ menu:
 - {name: 'university', url: '/university'}
 - {name: 'cv', url: '/cv'}
 - {name: 'science', url: '/science'}
-- {name: 'literature', url: '/courses'}
-- {name: 'conversations', url: '/cv'}
+- {name: 'literature', url: '/literature'}
+- {name: 'conversations', url: '/conversation'}
 - {name: 'contact', url: '/contact'}
 
 university:
