@@ -34,7 +34,7 @@ contacts:
 - {name: 'Mirzokhid Ganiev', title: '-', department: 'Physics', institution: 'Universität Leipzig', institution_address: '1 Main Street, Canada', phone: '', email: 'mirzokhidg@gmail.com', office: '', image: 'assets/img/contact.jpg'}
 
 labs:
-- {name: 'lab1', description: 'Short description for PDF 1.', url: '/labs1'}
-- {name: 'lab2', description: 'Short description for PDF 2.', url: '/labs2'}
-- {name: 'lab3', description: 'Short description for PDF 3.', url: '/labs3'}
+- {name: 'lab1', description: 'Short description for PDF 1.', url: 'labs1'}
+- {name: 'lab2', description: 'Short description for PDF 2.', url: 'labs2'}
+- {name: 'lab3', description: 'Short description for PDF 3.', url: 'labs3'}
 
