@@ -1,5 +1,5 @@
 ---
-layout: labs
+layout: page
 title: "labs"
 ---
 
