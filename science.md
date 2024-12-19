@@ -1,4 +1,4 @@
 ---
 layout: science
-title: "Science"
+title: "science"
 ---
