@@ -1,4 +1,0 @@
----
-layout: labs
-title: "labs"
----
