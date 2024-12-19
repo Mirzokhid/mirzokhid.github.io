@@ -12,11 +12,3 @@ title: "labs"
 [Labs 4](/science/labs/labs4.pdf)
 
 [Labs 6](/science/labs/labs6.pdf)
-
-[Midterm 1](/courses/vector-calculus/Sample_Midterm.pdf)
-
-[Midterm 2](/courses/vector-calculus/Sample_Midterm.pdf)
-
-#### Exams
-
-[Exam 1](/courses/vector-calculus/Sample_Exam.pdf)
