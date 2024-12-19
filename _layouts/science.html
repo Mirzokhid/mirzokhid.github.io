@@ -16,13 +16,11 @@ layout: default
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Labs</h3>
     {% for science in site.data.settings.science %}
-      <div class="col-md-6" align="left">
+      <div class="col-md-6">
         <h5>{{ science.name }}</h5>
-        <p> How Proud I am of this: {{ science.how}}</p>
+        <p align="left"> How Proud I am of this: {{ science.how}}</p>
         <p><a href="{{ site.github.url }}/science/labs/experiment{{ science.number }}">More Info</a></p>
-    </div>
-    <div  style="display:inline-block;float:left;margin-right:20px;">
-      <iframe src="{{ site.github.url }}/science/labs/{{ science.url }}" width="100%" height="512" align="right"></iframe>
+        <iframe src="{{ site.github.url }}/science/labs/{{ science.url }}" width="100%" height="512" align="right"></iframe>
     </div>
   </div>
   {% endfor %}
