@@ -13,7 +13,7 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.employment_history %}
-          <p class="fw-bold">{{ section.title }}, <i>{{ section.company }}</i></p>
+          <p><b>{{ section.title }}</b>, <i>{{ section.company }}</i></p>
           <p>{{ section.description }}</p>
           <p>{{ section.status }}</p>
         {% endfor %}
@@ -25,7 +25,7 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.education %}
-          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.title }}</p>
           <p>{{ section.description }}</p>
           <p>{{ section.status }}</p>
         {% endfor %}
