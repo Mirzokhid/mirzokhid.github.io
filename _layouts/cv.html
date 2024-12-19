@@ -42,14 +42,12 @@ layout: default
       <div class="col-md-10">
         {% for section in site.data.cv.skills %}
           <p class="fw-bold">{{ section.title }}</p>
-          <ul>
-            <li><p>{{ section.softwares }}</p></li>
-            <li><p>{{ section.program_lan }}</p></li>
-            <li><p>{{ section.skills}}</p></li>
-            <li><p>{{ section.skills}}</p></li>
-            <li><p>{{ section.lang_f}}</p></li>
-            <li><p>{{ section.lang_l}}</p></li>
-          </ul>
+            <p>{{ section.softwares }}</p>
+            <p>{{ section.program_lan }}</p>
+            <p>{{ section.skills}}</p>
+            <p>{{ section.skills}}</p>
+            <p>{{ section.lang_f}}</p>
+            <p>{{ section.lang_l}}</p>
         {% endfor %}
       </div>
     </div>
