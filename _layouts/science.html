@@ -8,7 +8,14 @@ layout: default
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Labs</h3>
     {% for science in site.data.settings.science %}
-      <p><a href="{{ site.github.url }}/science/{{ science.url }}">{{ science.name }}</a></p>
-    {% endfor %}
-  </div>
+      <div class="col-md-6">
+        <h5>{{ science.name }}</h5>
+        <p> How Proud I am of this: {{ science.how}}</p>
+        <p><a href="{{ site.github.url }}/science/labs/experiment{{ science.number }}">More Info</a></p>
+    </div>
+    <div>
+      <iframe src="{{ site.github.url }}/science/labs/{{ science.url }}f"></iframe>
+    </div>
+  {% endfor %}
 </div>
+
