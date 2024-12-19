@@ -7,8 +7,8 @@ layout: default
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Labs</h3>
-    {% for labs in site.data.settings.labs %}
-      <p><a href="{{ site.github.url }}/{{ labs.url}}">{{ labs.name }}</a></p>
+    {% for science in site.data.settings.science %}
+      <p><a href="{{ site.github.url }}/{{ science.url}}">{{ science.name }}</a></p>
     {% endfor %}
   </div>
 </div>
