@@ -35,3 +35,6 @@ contacts:
 
 science:
 - {name: 'labs', description: 'Short description for PDF 1.', url: 'labs'}
+
+labs:
+- {name: 'labs', description: 'Short description for PDF 1.', url: 'labs2.pdf'}
