@@ -13,8 +13,9 @@ layout: default
       justify-content: center;
     }
     .pdf-item {
-      width: 300px;
+      flex: 0 1 calc(50% - 15px); /* Two columns with spacing */
       text-align: center;
+      box-sizing: border-box;
     }
     .pdf-frame {
       width: 100%;
@@ -26,11 +27,13 @@ layout: default
 <body>
   <div class="row g-5 mb-5">
     <h1 class="text-center mb-4">PDF Gallery</h1>
-     <div>
+    <div class="pdf-container">
       {% for labs in site.data.settings.labs %}
-        <iframe class="pdf-frame" src="{{ site.github.url }}/science/labs/{{ labs.url }}"></iframe>
-        <p><a href="{{ site.github.url }}/science/labs/{{ labs.url }}">{{ labs.name }}</a></p>
+        <div class="pdf-item">
+          <iframe class="pdf-frame" src="{{ site.github.url }}/science/labs/{{ labs.url }}"></iframe>
+          <p><a href="{{ site.github.url }}/science/labs/{{ labs.url }}">{{ labs.name }}</a></p>
+        </div>
       {% endfor %}
-  </div>
+    </div>
   </div>
 </body>
