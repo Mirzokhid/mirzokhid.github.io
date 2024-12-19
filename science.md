@@ -1,4 +1,4 @@
 ---
-layout: science
+layout: courses
 title: "science"
 ---
