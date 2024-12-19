@@ -28,6 +28,7 @@ layout: default
     <h1 class="text-center mb-4">PDF Gallery</h1>
      <div>
       {% for labs in site.data.settings.labs %}
+        <iframe class="pdf-frame" src="p{{ site.github.url }}/science/labs/{{ labs.url }}"></iframe>
         <p><a href="{{ site.github.url }}/science/labs/{{ labs.url }}">{{ labs.name }}</a></p>
       {% endfor %}
   </div>
