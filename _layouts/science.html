@@ -4,16 +4,11 @@ layout: default
 
 {{ content }}
 
-<h3 class="fw-bold border-bottom pb-3 mb-5">PDF Gallery</h3>
 <div class="row g-5 mb-5">
-  {% for labs in site.data.labs %}
-    <div class="col-md-6">
-      <div class="text-center">
-        <iframe class="pdf-frame" src="{{ labs.url }}" title="{{ labs.name }}" style="width: 100%; height: 400px; border: 1px solid #ddd;"></iframe>
-        <p class="mt-2 fw-bold">{{ labs.name }}</p>
-        <p>{{ labs.description }}</p>
-      </div>
-    </div>
-  {% endfor %}
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Labs</h3>
+    {% for labs in site.data.settings.labs %}
+      <p><a href="{{ site.github.url }}/courses/{{ course.url}}">{{ labs.name }}</a></p>
+    {% endfor %}
+  </div>
 </div>
-
