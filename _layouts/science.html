@@ -3,50 +3,14 @@ layout: default
 ---
 
 {{ content }}
-<head>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-    }
-    .row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 20px;
-      margin-bottom: 20px;
-    }
-    .content-section {
-      display: flex;
-      width: 100%;
-      margin-bottom: 20px;
-    }
-    .text-section {
-      flex: 1;
-      padding-right: 20px;
-    }
-    .iframe-section {
-      flex: 2;
-    }
-    iframe {
-      width: 100%;
-      height: 250px;
-      border: none;
-    }
-  </style>
-</head>
 
+<h3 class="fw-bold border-bottom pb-3 mb-5">Science Links</h3>
 <div class="row g-5 mb-5">
-  <h3 class="fw-bold border-bottom pb-3 mb-5">Labs</h3>
-  {% for science in site.data.settings.science %}
-    <div class="content-section">
-      <div class="text-section">
-        <h5>{{ science.name }}</h5>
-        <p align="left">How Proud I am of this: {{ science.how }}</p>
-        <p><a href="{{ site.github.url }}/science/labs/experiment{{ science.number }}">More Info</a></p>
-      </div>
-      <div class="iframe-section">
-        <iframe src="{{ site.github.url }}/science/labs/{{ science.url }}"></iframe>
-      </div>
+  {% for x in site.data.settings.science %}
+    <div class="col-md-6">
+      <h5>{{ x.name }}</h5>
+      <p>About: {{ x.description }}</p>
+      <p><a href="{{ site.github.url }}/science/{{ url.url }}">Acess</a></p>
     </div>
   {% endfor %}
 </div>
