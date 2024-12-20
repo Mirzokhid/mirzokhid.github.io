@@ -7,6 +7,7 @@ title: "Why can you buy a house in Detroit for 1 USD?"
 
 <img src="conversations/convo_1/image_1.jpg" align="center" style="display: block;margin-left: auto;margin-right: auto; width: 50%;">
 
+
 Detroit is the largest city within the US state of Michigan. Being located in the midwest, it is the home to one of the earliest lands awarded to the United States. The city itself was founded in 1837, being generally a white-centred populous and slowly becoming a hub for commerce and industry. It was the centre of automation within the US and was home to one of the most populated cities in the nation. However, to understand why the current situation – in which homes are being sold for a dollar – we have to understand the cultural shift, the movement of industry, socio-economic changes, and the current real estate world of Detroit.
 
 The socio-economic change can be traced back to the cultural shift which occurred from the industrial movement and the end of segregation.
