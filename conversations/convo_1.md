@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 title: "Why can you buy a house in Detroit for 1 USD?"
 ---
 
