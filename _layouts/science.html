@@ -12,5 +12,8 @@ layout: default
       <p>About: {{ x.description }}</p>
       <p><a href="{{ site.github.url }}/{{ x.url }}">Acess</a></p>
     </div>
+    <div class="col-md-6">
+        <img src="{{ site.github.url }}/science/{{ x.url }}" alt="-" width="100%">
+    </div>
   {% endfor %}
 </div>
