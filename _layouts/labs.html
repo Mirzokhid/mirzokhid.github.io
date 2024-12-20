@@ -36,12 +36,12 @@ layout: default
 
 <div class="row g-5 mb-5">
   <h3 class="fw-bold border-bottom pb-3 mb-5">Labs</h3>
-  {% for science in site.data.settings.science %}
+  {% for x in site.data.settings.labs %}
     <div class="content-section">
       <div class="text-section">
-        <h5>{{ science.name }}</h5>
-        <p align="left">How Proud I am of this: {{ science.how }}</p>
-        <p><a href="{{ site.github.url }}/science/labs/experiment{{ science.number }}">More Info</a></p>
+        <h5>{{ x.name }}</h5>
+        <p align="left">How Proud I am of this: {{ x.description }}</p>
+        <p><a href="{{ site.github.url }}/science/labs/{{ x.murl }}">More Info</a></p>
       </div>
       <div class="iframe-section">
         <iframe class="pdf-frame" src="{{ site.github.url }}/science/labs/{{ labs.url }}"></iframe>
