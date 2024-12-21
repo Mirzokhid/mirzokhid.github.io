@@ -37,8 +37,8 @@ science:
 - {name: 'Laboratory Reports (Labs)', image: 'lab_image', description: 'I really like data, analysis and over indulging in graphs and plots. Which is why I usually am very proud of my labs as I put in a lot of work and pride in them. You can explore my recent collection of lab work here, hope you enjoy!' , url: 'labs' }
 
 conversations:
-- {name: 'Why can you buy a house in Detroit for 1 USD', image: 'image_1', description: 'Detroit is the largest city within the US state of Michigan. Being located in the midwest, it is the home to one of the earliest lands awarded to the United States. The city itself was founded in 1837, being generally a white-centred populous and slowly becoming a hub for commerce and industry. It was the […]', url: 'convo_1'}
-- {name: 'Understanding Museums', image: 'image_1', description: 'The Museums of Interest: Louvre Museum – Paris, France. The British Museum – London, England Van Gogh Museum – Amsterdam, Netherlands Uffizi Gallery – Florence, Italy. National Museum of Fine Arts named after Gapar Aitiev – Bishkek, Kyrgyzstan. Analysis: The four museums I toured virtually and one physically have their unique traits that are uncommon […]', url: 'convo_2'}
+- {name: 'Why can you buy a house in Detroit for 1 USD', image: 'convo_1/image_1', description: 'Detroit is the largest city within the US state of Michigan. Being located in the midwest, it is the home to one of the earliest lands awarded to the United States. The city itself was founded in 1837, being generally a white-centred populous and slowly becoming a hub for commerce and industry. It was the […]', url: 'convo_1'}
+- {name: 'Understanding Museums', image: 'convo_2/image_1', description: 'The Museums of Interest: Louvre Museum – Paris, France. The British Museum – London, England Van Gogh Museum – Amsterdam, Netherlands Uffizi Gallery – Florence, Italy. National Museum of Fine Arts named after Gapar Aitiev – Bishkek, Kyrgyzstan. Analysis: The four museums I toured virtually and one physically have their unique traits that are uncommon […]', url: 'convo_2'}
 
 labs:
 - {name: 'labs 2', description: 'Short description for PDF 1.', url: 'labs2.pdf'}
