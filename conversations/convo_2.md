@@ -30,6 +30,7 @@ Artworks generally have a common situation behind them, being an item of the pas
 <br/>
 Exploring down under, each museum has an aspect they present the most. Continuing one with the Uffizi Gallery, paintings are the most common form of artwork. They are everywhere, wherever you go. Any room there is for visitors to have a painting of high caliber. If you are trying to show the world of elites, the best way is to show who they were. Not all images are presenting royals or rich people of the past, yet they all are created to look vibrant. Looking glorious or holy. Take the painting of Bacchus, a Michelangelo Merisi, known as Caravaggio (Milano 1571 – Porto Ercole 1610), is just a painting of a god sitting around with a glass of wine and food layout for him. For a person with no knowledge of the person in the paintings, it looks like an idea of laziness. A way of seeing and not caring, but these complete rest and abandonment creates elegance. On how elegant the person seems. All of the paintings within the museum have a similar formula. A showing of a completely different levelness of anything which is part of a normal human. They present it lavishly and with high regard, making it a truly unique aspect of what they are saying. I don’t believe the fact it all looks so expensive is a bad thing, it follows the general trend of what they are. 
 
+<br/>
 <img src="convo_2/image_2.jpg" align="center" style="display: block;margin-left: auto;margin-right: auto; width: 50%;">
 Bacchus, Michelangelo Merisi, known as Caravaggio (Milano 1571 – Porto Ercole 1610)
 
