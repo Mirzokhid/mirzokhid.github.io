@@ -3,7 +3,7 @@ layout: default
 title: "Understanding Museums"
 ---
 
-#Understanding Museums
+# Understanding Museums
 
 <img src="convo_2/image_1.jpg" align="center" style="display: block;margin-left: auto;margin-right: auto; width: 50%;">
 
