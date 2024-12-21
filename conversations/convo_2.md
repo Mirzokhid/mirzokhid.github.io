@@ -7,7 +7,7 @@ title: "Understanding Museums"
 
 <img src="convo_2/image_1.jpg" align="center" style="display: block;margin-left: auto;margin-right: auto; width: 50%;">
 
-#### The Museums of Interest:
+##### The Museums of Interest:
 
 Louvre Museum – Paris, France.
 
@@ -30,19 +30,20 @@ Exploring down under, each museum has an aspect they present the most. Continuin
 
 <br/><br/>
 <img src="convo_2/image_2.jpg" align="center" style="display: block;margin-left: auto;margin-right: auto; width: 50%;">
-Bacchus, Michelangelo Merisi, known as Caravaggio (Milano 1571 – Porto Ercole 1610)
+<p align="center">Bacchus, Michelangelo Merisi, known as Caravaggio (Milano 1571 – Porto Ercole 1610)</p>
 
-<br/><br/>
+<br/>
 The British Museum is known to have artifacts. Ancient artifacts of all kinds, from tiny roman sculptures to remnants of tombs from Egypt. These items are all enclosed into a barrier of glass or surrounded by some barrier. There are hundreds to thousands of these, it is literally what the museum is. It is the collection of world history, wherever the British could reach, they took the history from those lands. You can see a great example at their Arctic Exhibition. A small section of their museum where they present the clothes, tools, and anything in general which were used in the Arctic. There is an explanation on the weather, the way of living/conditions of living, and what exactly they do there – including how they did it. As we have discussed before, the British Museum’s “mission” (ehem… ignoring that they stole everything) is to timestamp the world of the past. And as you can see here, they have these fully enclosed barriers, and each item is given its spotlight. The presentation of full control and assurance of safety. a way of showing their commitment to constraining the world of the before. Everything is done properly, and I believe they could not have done better and used the proper amount of abilities and power to preserve the world we would never reach. From the Louvre Museum’s collection list, their most common spotlights are drawings and engravings. These small pieces of paper have sketches, structural understanding of the larger scale paintings. I don’t know why these artworks are the most common and are pretty sure most of them are stored away however they are fundamental. The sketches are the first steps of art, a way of understanding what the final artwork may be. I think the use of these in a museum known for art shows the hard work behind all forms of art. The Van Gogh Museum obviously only has paintings generally. This ensures the world of Van Gosh through his work, excluding the influence of others. Allowing us to completely comprehend the world a man of one saw. The paintings are always spaced out in large as if seemingly making it seem too large. Bringing in this feeling of these small paintings have an influence larger than their frame. The National Museum of Fine Arts also has paintings as their most common aspect. This can be traced on as the medium most commonly used by the Kyrgyz people, the world of these people, was through paintings. There were dozens of Kyrgyz painters, all using their ways of expressing their culture and people. And the most common ones were the paintings. As one image could have shown a thousand emotions, showing a thousand details, and always explicitly state its existence. 
 
 <br/><br/>
 <img src="convo_2/image_3.jpg" align="center" style="display: block;margin-left: auto;margin-right: auto; width: 50%;">
-<a href="https://www.britishmuseum.org/exhibitions/arctic-culture-and-climate">Arctic: Culture and Climate</a>
-
-<br/>
-Now talking about the historical and informative aspects of the museums, what exactly are they concentrating on. The Van Gogh Museum is the best example for this part of our analysis. The whole museum concentrated around the period when Vang Gogh was alive, which is between the 1850s to 1890s. This specific way of being within that time allows the museum to fully visualize the world of their artworks into people. There isn’t a coherent way to say this, but I think being only in this time:
+<a href="https://www.britishmuseum.org/exhibitions/arctic-culture-and-climate" align="center">Arctic: Culture and Climate</a>
 
 <br/><br/>
+Now talking about the historical and informative aspects of the museums, what exactly are they concentrating on. The Van Gogh Museum is the best example for this part of our analysis. The whole museum concentrated around the period when Vang Gogh was alive, which is between the 1850s to 1890s. This specific way of being within that time allows the museum to fully visualize the world of their artworks into people. There isn’t a coherent way to say this, but I think being only in this time:
+
+<br/>
+
 > “Allows us to fully comprehend the world the museum is in. A time period we, as visitors, are thrown into completely changes how we may understand or see artworks. Concentrating on a time per section makes it much easier for us to slowly graduate between times to different regions and eras.”
 
 <br/>
