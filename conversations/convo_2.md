@@ -51,7 +51,7 @@ Meaning, the fact these attributes create a cage for us to easily roam. The Van 
 <br/>
 In conclusion, all of these museums have their unique themes. Their presentations differ by small but those differences create a large understanding of the place. I can end it here by giving what I think each museum is:
 
-<br/>
+<br/><br/>
 <ul>
   <li>Louvre Museum – The Art of History</li>
   <li>The British Museum – The History of History</li>
