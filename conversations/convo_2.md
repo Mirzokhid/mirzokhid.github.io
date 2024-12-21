@@ -7,7 +7,7 @@ title: "Understanding Museums"
 
 <img src="convo_2/image_1.jpg" align="center" style="display: block;margin-left: auto;margin-right: auto; width: 50%;">
 
-#The Museums of Interest:
+## The Museums of Interest:
 
 Louvre Museum – Paris, France.
 
@@ -19,7 +19,7 @@ Uffizi Gallery – Florence, Italy.
 
 National Museum of Fine Arts named after Gapar Aitiev – Bishkek, Kyrgyzstan.
 
-Analysis:
+### Analysis:
 
 The four museums I toured virtually and one physically have their unique traits that are uncommon within each other. Even though the central idea of each place is the same- being there to present history through the creations of the past – the way they present or explain differs largely. Of course, there is a possible bias or a human misconception from my side as most of these virtual tours do not fully present the essence of the museum. It is to be said what I saw and my analysis can be expected to have some understanding of what makes these museums them in regards to their artworks, abundance, presentation, historical background, and information.
 
@@ -38,10 +38,7 @@ The British Museum is known to have artifacts. Ancient artifacts of all kinds, f
 
 Now talking about the historical and informative aspects of the museums, what exactly are they concentrating on. The Van Gogh Museum is the best example for this part of our analysis. The whole museum concentrated around the period when Vang Gogh was alive, which is between the 1850s to 1890s. This specific way of being within that time allows the museum to fully visualize the world of their artworks into people. There isn’t a coherent way to say this, but I think being only in this time:
 
-Advertisement
-
-Privacy Settings
-“Allows us to fully comprehend the world the museum is in. A time period we, as visitors, are thrown into completely changes how we may understand or see artworks. Concentrating on a time per section makes it much easier for us to slowly graduate between times to different regions and eras.”
+- “Allows us to fully comprehend the world the museum is in. A time period we, as visitors, are thrown into completely changes how we may understand or see artworks. Concentrating on a time per section makes it much easier for us to slowly graduate between times to different regions and eras.”
 
 Meaning, the fact these attributes create a cage for us to easily roam. The Van Gogh Museum utilizes this to make a showman of this situation. They lock us into one period, one time, to allow us to easily understand and be part of what we see. It may not seem that different or important, being there is no one else’s work is in there, when we start to look at other museums, this would show its prominence. The British Museum does not concentrate on one time period, yet each time period is given its group. The chronological order of the whole establishment allows the “smooth” transition I had mentioned earlier. If you have ever gone through Vang Gogh, you would realize how easy it is to follow through. Now bring that to multiple periods, in short bursts within a larger museum. As you have already realized, it makes a comfortable and understandable historical restoration. Both museums here utilize these facts very well. And including on, with those presentations the information sheets on each of the artwork has to have its blissfulness. You see, the placement isn’t functional if the information on the object confuses the audience. The museums mentioned have known to simply and approach a minimalistic viewpoint on their exhibits. But not only in these two, but the simplified factsheets are also seen throughout all the museums I did mention here. However, the “time” idea has been absent in two places, the National Museum of Fine Arts and the Uffizi Gallery. These two places of history do not follow a timeline to present but follow more of an aesthetical approach. Their artworks flow through how they look, what is in there and how they work with other artworks. These have no historical background formation, allowing a rather pleasing walk-through. More of a relaxation.
 
