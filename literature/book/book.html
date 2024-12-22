@@ -2,12 +2,10 @@
 layout: default
 ---
 
-{{ content }}
-
 <h3 class="fw-bold border-bottom pb-3 mb-5">Books</h3>
 <div class="container">
   <div class="row g-4">
-    {% for x in site.data.settings.books %}
+    {% for x in site.data.settings.book %}
       <div class="col-md-3 col-sm-6">
         <div class="card h-100 text-center p-3">
           <h5 class="fw-bold">{{ x.name }}</h5>
