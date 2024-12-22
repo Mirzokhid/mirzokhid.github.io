@@ -3,17 +3,13 @@ layout: default
 ---
 
 <h3 class="fw-bold border-bottom pb-3 mb-5">Books</h3>
-<div class="container">
   <div class="row g-4">
     {% for x in site.data.settings.book %}
       <div class="col-md-3 col-sm-6">
         <div class="card h-100 text-center p-3">
-          <h5 class="fw-bold">{{ x.name }}</h5>
-          <p>{{ x.author }}</p>
-          <p><a href="{{ site.github.url }}/literature/book/{{ x.url }}" class="btn btn-primary btn-sm">review</a></p>
           <img src="{{ site.github.url }}/literature/book/{{ x.image }}.jpg" alt="-" width="75%" height="75%">
+          <p><a href="{{ site.github.url }}/literature/book/{{ x.url }}" class="btn btn-primary btn-sm">review</a></p>
         </div>
       </div>
     {% endfor %}
-  </div>
 </div>
