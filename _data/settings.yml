@@ -37,7 +37,10 @@ science:
 - {name: 'Laboratory Reports (Labs)', image: 'lab_image', description: 'I really like data, analysis and over indulging in graphs and plots. Which is why I usually am very proud of my labs as I put in a lot of work and pride in them. You can explore my recent collection of lab work here, hope you enjoy!' , url: 'labs' }
 
 literatures:
-- {name: 'Narrative Novel Reviews', image: 'lit_image', description: 'If you want a short desciptive review of some of the books I have read', url: 'lit'}
+- {name: 'Narrative Novel Reviews', image: 'lit_image', description: 'If you want a short desciptive review of some of the books I have read', url: 'book'}
+
+book:
+- {name: 'The Sarah Book', author: 'Scott McClanahan', image: 'sarah_book'}
 
 conversations:
 - {name: 'Bizarre Evolution of Sloths; The ones who swam, hiked, dwelled, and now hang', image: 'convo_3/image_1', description: 'Sloths are unique and fascinating creatures who somehow survived as slow and tree-bearing creatures. Creatures where half of the population die in attempting to climb down from trees to use the bathroom. An odd circumstance when their ancestors were water swimming, ground burrowing, mountain[…]', url: 'convo_3'}
