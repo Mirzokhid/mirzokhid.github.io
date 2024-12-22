@@ -4,4 +4,16 @@ layout: default
 
 {{ content }}
 
-
+<h3 class="fw-bold border-bottom pb-3 mb-5">Literature Links</h3>
+<div class="row g-5 mb-5">
+  {% for x in site.data.settings.literatures %}
+    <div class="col-md-6">
+      <h5>{{ x.name }}</h5>
+      <p>About: {{ x.description }}</p>
+      <p><a href="{{ site.github.url }}/{{ x.url }}">Acess</a></p>
+    </div>
+    <div class="col-md-6">
+        <img src="{{ site.github.url }}/science/{{ x.image }}.jpg" alt="-" width="75%" height="75%">
+    </div>
+  {% endfor %}
+</div>
