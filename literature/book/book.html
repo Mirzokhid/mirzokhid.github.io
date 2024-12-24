@@ -51,7 +51,7 @@ layout: default
             {% for x in site.data.settings.book %}
             <div class="gallery-item">
                 <img src="{{ site.github.url }}/literature/book/{{ x.image }}.jpg" alt="Image">
-                <button>{{ x.name }}</button>
+                <a href="literature/book/{{ x.image }}.html"<button>{{ x.name }}</button></a>
             </div>
             {% endfor %}
         </div>
@@ -60,6 +60,8 @@ layout: default
 </html>
 
 <!--
+literature/book/sarah_book.html
+
 ---
 layout: default
 ---
