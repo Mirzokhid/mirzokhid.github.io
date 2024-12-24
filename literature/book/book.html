@@ -1,15 +1,65 @@
 ---
 layout: default
 ---
-
-<h3 class="fw-bold border-bottom pb-3 mb-5">Books</h3>
-  <div class="row g-4">
-    {% for x in site.data.settings.book %}
-      <div class="col-md-3 col-sm-6">
-        <div class="card h-100 text-center p-3">
-          <img src="{{ site.github.url }}/literature/book/{{ x.image }}.jpg" alt="-" width="75%" height="75%">
-          <p><a href="{{ site.github.url }}/literature/book/{{ x.url }}" style="text-align:center; background-color: grey;">review</a></p>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            display: flex;
+            justify-content: center;
+        }
+        .container {
+            max-width: 1200px;
+            padding: 20px;
+        }
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 20px;
+        }
+        .gallery-item {
+            text-align: center;
+            background: #fff;
+            border: 1px solid #ddd;
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .gallery-item img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .gallery-item button {
+            margin-top: 10px;
+            padding: 8px 15px;
+            font-size: 14px;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .gallery-item button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="gallery">
+            {% for item in site.data.items %}
+            <div class="gallery-item">
+                <img src="{{ item.image }}" alt="Image">
+                <button>{{ item.button_text }}</button>
+            </div>
+            {% endfor %}
         </div>
-      </div>
-    {% endfor %}
-</div>
+    </div>
+</body>
+</html>
+
