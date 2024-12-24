@@ -52,7 +52,7 @@ layout: default
 <body>
     <div class="container">
         <div class="gallery">
-            {% for x in site.data.book %}
+            {% for x in site.data.settings.book %}
             <div class="gallery-item">
                 <img src="{{ site.github.url }}/literature/book/{{ x.image }}.jpg" alt="Image">
                 <button>{{ x.name }}</button>
@@ -62,4 +62,24 @@ layout: default
     </div>
 </body>
 </html>
+
+<!--
+---
+layout: default
+---
+
+<h3 class="fw-bold border-bottom pb-3 mb-5">Books</h3>
+  <div class="row g-4">
+    {% for x in site.data.settings.book %}
+      <div class="col-md-3 col-sm-6">
+        <div class="card h-100 text-center p-3">
+          <img src="{{ site.github.url }}/literature/book/{{ x.image }}.jpg" alt="-" width="75%" height="75%">
+          <p><a href="{{ site.github.url }}/literature/book/{{ x.url }}" style="text-align:center; background-color: grey;">review</a></p>
+        </div>
+      </div>
+    {% endfor %}
+</div>
+
+-->
+
 
