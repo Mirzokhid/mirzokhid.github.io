@@ -52,10 +52,10 @@ layout: default
 <body>
     <div class="container">
         <div class="gallery">
-            {% for item in site.data.items %}
+            {% for x in site.data.book %}
             <div class="gallery-item">
-                <img src="{{ item.image }}" alt="Image">
-                <button>{{ item.button_text }}</button>
+                <img src="{{ site.github.url }}/literature/book/{{ x.image }}.jpg" alt="Image">
+                <button>{{ x.name }}</button>
             </div>
             {% endfor %}
         </div>
