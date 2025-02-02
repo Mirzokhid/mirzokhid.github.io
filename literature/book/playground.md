@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sample Post"
+title: "forgotton in the playground"
 ---
 
 The window reflected the darkness engulfing the world around. The front door shattered through. The house filled through the cold, freezing breath of God. The wind touched every fiber of my existence. I stood embracing His magnificence. 
