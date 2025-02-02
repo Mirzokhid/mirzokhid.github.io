@@ -38,6 +38,7 @@ science:
 
 literatures:
 - {name: 'Narrative Novel Reviews', image: 'lit_image', description: 'If you want a short desciptive review of some of the books I have read', url: 'book'}
+- {name: 'forgotton in the playground', image: 'playground_img', description: 'The window reflected the darkness engulfing the world around. The front door shattered through. The house...', url: 'playground'}
 
 book:
 - {name: 'The Sarah Book', author: 'Scott McClanahan', image: 'sarah_book'}
