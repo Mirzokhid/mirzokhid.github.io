@@ -31,7 +31,7 @@ social:
 - {icon: 'instagram', link: 'https://www.instagram.com/trainsisbetter/'}
 
 contacts:
-- {name: 'Mirzokhid Ganiev', title: '-', department: 'Physics', institution: 'Universität Leipzig', institution_address: '1 Main Street, Canada', phone: '', email: 'mirzokhidg@gmail.com', office: '', image: 'assets/img/contact.jpg'}
+- {name: 'Mirzokhid Ganiev', title: '-', department: 'Physics', institution: 'Universität Leipzig', institution_address: 'Linnéstraße 5, 04103 Leipzig', phone: '', email: 'mirzokhidg@gmail.com', office: '', image: 'assets/img/faculty_image.jpg'}
 
 science:
 - {name: 'Laboratory Reports (Labs)', image: 'lab_image', description: 'I really like data, analysis and over indulging in graphs and plots. Which is why I usually am very proud of my labs as I put in a lot of work and pride in them. You can explore my recent collection of lab work here, hope you enjoy!' , url: 'labs' }
