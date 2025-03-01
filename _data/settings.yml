@@ -38,8 +38,10 @@ science:
 
 literatures:
 - {name: 'Narrative Novel Reviews', image: 'lit_image', description: 'If you want a short desciptive review of some of the books I have read', url: 'book'}
+- {name: 'odd', image: 'playground_img', description: 'It was the hay bales that did it. The men and women walked past Oddo towards the church...', url: 'oddo'}
 - {name: 'forgotton in the playground', image: 'playground_img', description: 'The window reflected the darkness engulfing the world around. The front door shattered through. The house...', url: 'playground'}
 - {name: 'dead fish', image: 'dead_fish_img', description: 'dead fish, the fish is dead. the fish is dead, the head of the fish is dead. the head of the fish is not dead. the head is dead, it is alive, it is dead....', url: 'dead_fish'}
+
 
 book:
 - {name: 'The Sarah Book', author: 'Scott McClanahan', image: 'sarah_book'}
