@@ -38,11 +38,6 @@ layout: default
   <h3 class="fw-bold border-bottom pb-3 mb-5">Labs</h3>
   {% for x in site.data.settings.labs %}
     <div class="content-section">
-      <div class="text-section">
-        <h5>{{ x.name }}</h5>
-        <p align="left">How Proud I am of this: {{ x.description }}</p>
-        <p><a href="{{ site.github.url }}/science/labs/{{ x.murl }}">More Info</a></p>
-      </div>
       <div class="iframe-section">
         <iframe class="pdf-frame" src="{{ site.github.url }}/science/labs/{{ x.url }}"></iframe>
       </div>
