@@ -52,6 +52,10 @@ conversations:
 - {name: 'Why can you buy a house in Detroit for 1 USD', image: 'convo_1/image_1', description: 'Detroit is the largest city within the US state of Michigan. Being located in the midwest, it is the home to one of the earliest lands awarded to the United States. The city itself was founded in 1837, being generally a white-centred populous and slowly becoming a hub for commerce and industry. It was the […]', url: 'convo_1'}
 
 labs:
+- {name: 'E12He_RLC_Resonant_Circuits Final Paper', description: 'Short description for PDF 1.', url: 'E12He_RLC_Resonant_Circuits Final Paper.pdf'}
+- {name: 'E14e Semiconductor Diodes', description: 'Short description for PDF 1.', url: 'E14e Semiconductor Diodes.pdf'}
+- {name: 'O09e Fringes of Equal Thickness', description: 'Short description for PDF 1.', url: 'O09e Fringes of Equal Thickness.pdf'}
+- {name: 'E11e__Phase_Shift_in_AC_Circuits', description: 'Short description for PDF 1.', url: 'E11e__Phase_Shift_in_AC_Circuits.pdf'}
 - {name: 'labs 2', description: 'Short description for PDF 1.', url: 'labs2.pdf'}
 - {name: 'labs 3', description: 'Short description for PDF 1.', url: 'labs3.pdf'}
 - {name: 'labs 4', description: 'Short description for PDF 1.', url: 'labs4.pdf'}
