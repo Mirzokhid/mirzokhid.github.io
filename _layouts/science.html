@@ -3,18 +3,45 @@ layout: default
 ---
 
 {{ content }}
+<head>
+  <style>
+    body {
+      margin: 0;
+    }
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+    .content-section {
+      display: flex;
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    .text-section {
+      flex: 1;
+      padding-right: 20px;
+    }
+    .iframe-section {
+      flex: 2;
+    }
+    iframe {
+      width: 100%;
+      height: 250px;
+      border: none;
+    }
+  </style>
+</head>
 
-<h3 class="fw-bold border-bottom pb-3 mb-5">General Labs Course</h3>
 <div class="row g-5 mb-5">
-  {% for x in site.data.settings.science %}
-    <div class="col-md-6">
-      <h5>{{ x.name }}</h5>
-      <p>About: {{ x.description }}</p>
-      <p><a href="{{ site.github.url }}/{{ x.url }}">Acess</a></p>
-    </div>
+  <h3 class="fw-bold border-bottom pb-3 mb-5">Labs</h3>
+  {% for x in site.data.settings.labs %}
     <div class="content-section">
       <div class="iframe-section">
         <iframe class="pdf-frame" src="{{ site.github.url }}/science/labs/{{ x.url }}"></iframe>
       </div>
+    </div>
   {% endfor %}
 </div>
+
